@@ -1,1 +1,1 @@
-# .Twitch-Resource-Recommendation-Engine
+# Twitch-Resource-Recommendation-Engine
